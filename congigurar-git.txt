@@ -3,3 +3,5 @@ copiar o valor da chave e criar uma nova chave no git
 
 Tentar montar um passo a passo com isso
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+git push -f origin <branch>
