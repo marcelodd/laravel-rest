@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/produto', function () {
+    return '<h1>Teste de rota laravel</h1>';
+});

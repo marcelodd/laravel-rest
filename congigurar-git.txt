@@ -5,3 +5,5 @@ Tentar montar um passo a passo com isso
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 git push -f origin <branch>
+
+php artisan migrate:install
